@@ -1,0 +1,14 @@
+.search {
+    height: 40px;
+    width: 250px;
+    font-size: large;
+    color: aliceblue;
+    background: rgba(42, 40, 40, 0.726);
+   }
+
+.botoncito {
+    height: 45px;
+    width: 100px;
+    font-size: large;
+    cursor: pointer
+}

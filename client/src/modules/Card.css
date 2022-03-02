@@ -1,0 +1,33 @@
+.card {
+    background: rgba(105, 105, 105, 0.726);
+    border-radius: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 550px;
+    height: 500px;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+.card:hover {
+    transform: scale(1.03);
+	transition: ease-in-out 200ms;
+}
+
+img {
+    max-width: 400px;
+    border-radius: 25px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.nombre {
+    text-align: center;
+}
+
+.detalle {
+    margin-left: 30px;
+    height: 30px;
+    cursor: pointer
+    
+}

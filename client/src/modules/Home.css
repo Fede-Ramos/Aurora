@@ -1,0 +1,25 @@
+.home {
+    color: rgb(209, 199, 199);
+    margin-top: 100px;
+    margin-left: 10%;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.botonCargar {
+    cursor: pointer;
+    width: 10%;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    color:rgb(183, 168, 197);
+    background: rgba(209, 122, 209, 0.459); 
+  }
+  
+.botonCargar:hover {
+    background-color: #a03636;
+    opacity: 1;
+    transform: translateY(0);
+    transition-duration: .35s;
+  }
+
