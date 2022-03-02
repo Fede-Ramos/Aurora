@@ -62,7 +62,7 @@ Servidor en Node/Express con las siguientes rutas:
 - [ ] __GET /drinks?name="..."__:
   - Obtener un listado de los tragos que contengan la palabra ingresada como query parameter
  
-- [ ] __GET /recipes/{idDrink}__:
+- [ ] __GET /drinks/{idDrink}__:
   - Obtener el detalle de un trago en particular
   - Debe traer solo los datos pedidos en la ruta de detalle de receta
 
