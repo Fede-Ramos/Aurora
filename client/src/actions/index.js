@@ -14,15 +14,18 @@ export function getDrinks(){
 };
 
 export function getDetail(id){
-    console.log(id)
-    return async function(dispatch){
-        const detail= await axios.get('http://localhost:3001/api/auroras/' + id);
-        //console.log(detail)
-        return dispatch({
-            type: 'GET_DETAIL',
-            payload: detail.data
-        })
+    try {
+        return async function(dispatch){
+            const detail= await axios.get('http://localhost:3001/api/auroras/' + id);
+            return dispatch({
+                type: 'GET_DETAIL',
+                payload: detail.data
+            })
+        }
+    } catch (error) {
+        console.log('ACA ESTA EL ERROR', error)
     }
+    
 };
 
 export function getNames(name){

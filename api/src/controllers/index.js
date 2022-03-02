@@ -66,7 +66,6 @@ async function getId (req, res, next){
             }
         })
         console.log(ids)
-        //let aver= ids.filter(e => e.id === id)
         return res.json(ids);
         } else {
             res.status(400).send({error: 'no se encontro el id'})

@@ -32,20 +32,24 @@ export default function Home(){
          <div> <button className='botonCargar' onClick= {(e) => handleClick(e)}>Reload</button>  </div>
          {loading? (
         <Spinner/>)
-       : (
+       : (  allDrinks.length === 0 ? (
+        <h2>That drink doesn't even exist, are you drunk?</h2>
+      ) : (
+        
          allDrinks?.map((e) => {
                    return (
                       <div>
                          
                    <Card name={e.name} 
-                   image={e.image}/>
+                   image={e.image}
+                   id= {e.id}/>
                     
                    </div>
                    
                    ) 
                    
-               }) 
-       )}
+               }))
+       )} 
         </div>
     
        )
