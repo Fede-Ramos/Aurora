@@ -41,6 +41,13 @@ __Pagina inicial__: una landing page con
 - [ ] Alguna imagen de fondo representativa al proyecto
 - [ ] Botón para ingresar al home (`Ruta principal`)
 
+
+<p align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478842-c8465a90-3faa-429c-a666-922bc88f0d5e.png
+" />
+</p>
+
+
 __Ruta principal__: contiene
 - [ ] Input de búsqueda para encontrar drinks por nombre
 - [ ] Área donde se vé el listado de drinks con su:
@@ -48,10 +55,32 @@ __Ruta principal__: contiene
   - Nombre
 - [ ] Botón para ir a la ruta de detalle
 
-__Ruta de detalle de receta__: contiene
+
+<p align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478947-ad4ec610-d6e4-4fb8-880a-9c14984ec8eb.png
+" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479784-61b2cef2-96e3-4930-bd37-6a3ecef4c572.png
+" />
+   <img height="200" src="https://user-images.githubusercontent.com/87664281/156479844-fad3d9a8-18d6-447d-b059-48649a1b11f2.png
+" />
+</p>
+
+
+
+__Ruta de detalle del cocktail__: contiene
 - [ ] Los campos mostrados en la ruta principal para cada drink (imagen, nombre)
 - [ ] How to (como preparar el trago)
 - [ ] Botón para volver al Home
+
+
+<p align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479910-d9ecf234-df51-4c0d-bc52-c7f2e1661e0b.png
+" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479944-457ca416-3913-4212-8884-6813994799c4.png
+" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479990-4dd7052e-6471-4bbc-b59f-d0a098aaa45b.png
+" />
+</p>
 
 
 
@@ -64,6 +93,6 @@ Servidor en Node/Express con las siguientes rutas:
  
 - [ ] __GET /drinks/{idDrink}__:
   - Obtener el detalle de un trago en particular
-  - Debe traer solo los datos pedidos en la ruta de detalle de receta
+  - Debe traer solo los datos pedidos en la ruta de detalle de cocktail
 
 
