@@ -78,7 +78,7 @@ __Ruta de detalle del cocktail__: contiene
 " />
   <img height="200" src="https://user-images.githubusercontent.com/87664281/156479944-457ca416-3913-4212-8884-6813994799c4.png
 " />
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479990-4dd7052e-6471-4bbc-b59f-d0a098aaa45b.png
+  <img height="200" src="![Detail3](https://user-images.githubusercontent.com/87664281/156480294-4e27bdc3-69e4-4a86-9093-5b44b935f4b8.png)
 " />
 </p>
 
