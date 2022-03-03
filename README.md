@@ -43,8 +43,7 @@ __Pagina inicial__: una landing page con
 
 
 <p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478842-c8465a90-3faa-429c-a666-922bc88f0d5e.png
-" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478842-c8465a90-3faa-429c-a666-922bc88f0d5e.png" />
 </p>
 
 
@@ -57,12 +56,11 @@ __Ruta principal__: contiene
 
 
 <p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478947-ad4ec610-d6e4-4fb8-880a-9c14984ec8eb.png
-" />
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479784-61b2cef2-96e3-4930-bd37-6a3ecef4c572.png
-" />
-   <img height="200" src="https://user-images.githubusercontent.com/87664281/156479844-fad3d9a8-18d6-447d-b059-48649a1b11f2.png
-" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156478947-ad4ec610-d6e4-4fb8-880a-9c14984ec8eb.png" />
+  
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479784-61b2cef2-96e3-4930-bd37-6a3ecef4c572.png" />
+  
+   <img height="200" src="https://user-images.githubusercontent.com/87664281/156479844-fad3d9a8-18d6-447d-b059-48649a1b11f2.png" />
 </p>
 
 
@@ -74,12 +72,11 @@ __Ruta de detalle del cocktail__: contiene
 
 
 <p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479910-d9ecf234-df51-4c0d-bc52-c7f2e1661e0b.png
-" />
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479944-457ca416-3913-4212-8884-6813994799c4.png
-" />
-  <img height="200" src="![Detail3](https://user-images.githubusercontent.com/87664281/156480294-4e27bdc3-69e4-4a86-9093-5b44b935f4b8.png)
-" />
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479910-d9ecf234-df51-4c0d-bc52-c7f2e1661e0b.png" />
+  
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156479944-457ca416-3913-4212-8884-6813994799c4.png" />
+  
+  <img height="200" src="https://user-images.githubusercontent.com/87664281/156480294-4e27bdc3-69e4-4a86-9093-5b44b935f4b8.png" />
 </p>
 
 
